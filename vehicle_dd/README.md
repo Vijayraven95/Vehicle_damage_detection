@@ -1,5 +1,3 @@
-Here's the updated **README** file based on your project setup:
-
 Car Damage Detection App
 ========================
 
