@@ -43,7 +43,7 @@ Setup and Usage
 
 ### Build the Docker Image
 
-1.  ``` git clone <this repo>``` &  ```cd car-damage-detection-app```
+1.  ``` git clone <this repo>``` &  ```cd vehicle_dd```
     
 2.  ```docker build -t car-damage-detection-app .```   
 
