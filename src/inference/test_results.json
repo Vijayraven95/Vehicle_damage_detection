@@ -1,0 +1,36 @@
+{
+    "bbox": {
+        "AP": 3.932276109086947,
+        "AP50": 6.3500942344089815,
+        "AP75": 4.99720553870456,
+        "APs": 4.607909210924569,
+        "APm": 0.4125412541254125,
+        "APl": 2.5123762376237626,
+        "AP-severity-damage": NaN,
+        "AP-minor-dent": 2.9702970297029703,
+        "AP-minor-scratch": 8.982961347943101,
+        "AP-moderate-broken": 0.0,
+        "AP-moderate-dent": 1.4851485148514851,
+        "AP-moderate-scratch": 0.0,
+        "AP-severe-broken": 18.019801980198018,
+        "AP-severe-dent": 0.0,
+        "AP-severe-scratch": 0.0
+    },
+    "segm": {
+        "AP": 3.4490269462444116,
+        "AP50": 6.249122276328849,
+        "AP75": 4.77528196557383,
+        "APs": 3.9232877278254827,
+        "APm": 1.782178217821782,
+        "APl": 2.233910891089109,
+        "AP-severity-damage": NaN,
+        "AP-minor-dent": 3.4653465346534658,
+        "AP-minor-scratch": 6.948651213519648,
+        "AP-moderate-broken": 0.0,
+        "AP-moderate-dent": 1.7326732673267329,
+        "AP-moderate-scratch": 0.0,
+        "AP-severe-broken": 15.445544554455445,
+        "AP-severe-dent": 0.0,
+        "AP-severe-scratch": 0.0
+    }
+}
